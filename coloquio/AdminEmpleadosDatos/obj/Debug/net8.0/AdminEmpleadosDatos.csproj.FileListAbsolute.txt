@@ -1,0 +1,34 @@
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.AssemblyInfoInputs.cache
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.AssemblyInfo.cs
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.csproj.CoreCompileInputs.cache
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.csproj.AssemblyReference.cache
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosDatos.deps.json
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosDatos.dll
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosDatos.pdb
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosEF.dll
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosEntidades.dll
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosEF.pdb
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosEntidades.pdb
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmp.F90D9922.Up2Date
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.dll
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\obj\Debug\net8.0\refint\AdminEmpleadosDatos.dll
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.pdb
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosDatos\obj\Debug\net8.0\ref\AdminEmpleadosDatos.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosDatos.deps.json
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosDatos.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosDatos.pdb
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosEF.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosEntidades.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosEF.pdb
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\bin\Debug\net8.0\AdminEmpleadosEntidades.pdb
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.csproj.AssemblyReference.cache
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.AssemblyInfoInputs.cache
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.AssemblyInfo.cs
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.csproj.CoreCompileInputs.cache
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmp.F90D9922.Up2Date
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\obj\Debug\net8.0\refint\AdminEmpleadosDatos.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\obj\Debug\net8.0\AdminEmpleadosDatos.pdb
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosDatos\obj\Debug\net8.0\ref\AdminEmpleadosDatos.dll

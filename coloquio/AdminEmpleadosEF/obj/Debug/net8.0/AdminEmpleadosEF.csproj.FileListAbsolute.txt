@@ -1,0 +1,34 @@
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.csproj.AssemblyReference.cache
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.AssemblyInfoInputs.cache
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.AssemblyInfo.cs
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.csproj.CoreCompileInputs.cache
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\bin\Debug\net8.0\AdminEmpleadosEF.deps.json
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\bin\Debug\net8.0\AdminEmpleadosEF.runtimeconfig.json
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\bin\Debug\net8.0\AdminEmpleadosEF.dll
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\bin\Debug\net8.0\AdminEmpleadosEF.pdb
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\bin\Debug\net8.0\AdminEmpleadosEntidades.dll
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\bin\Debug\net8.0\AdminEmpleadosEntidades.pdb
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmp.F7754C28.Up2Date
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.dll
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\obj\Debug\net8.0\refint\AdminEmpleadosEF.dll
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.pdb
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.genruntimeconfig.cache
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEF\obj\Debug\net8.0\ref\AdminEmpleadosEF.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\bin\Debug\net8.0\AdminEmpleadosEF.deps.json
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\bin\Debug\net8.0\AdminEmpleadosEF.runtimeconfig.json
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\bin\Debug\net8.0\AdminEmpleadosEF.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\bin\Debug\net8.0\AdminEmpleadosEF.pdb
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\bin\Debug\net8.0\AdminEmpleadosEntidades.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\bin\Debug\net8.0\AdminEmpleadosEntidades.pdb
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.csproj.AssemblyReference.cache
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.AssemblyInfoInputs.cache
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.AssemblyInfo.cs
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.csproj.CoreCompileInputs.cache
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmp.F7754C28.Up2Date
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\obj\Debug\net8.0\refint\AdminEmpleadosEF.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.pdb
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\obj\Debug\net8.0\AdminEmpleadosEF.genruntimeconfig.cache
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEF\obj\Debug\net8.0\ref\AdminEmpleadosEF.dll

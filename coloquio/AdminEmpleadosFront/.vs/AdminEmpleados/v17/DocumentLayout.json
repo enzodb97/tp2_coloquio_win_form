@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enzob\\OneDrive\\Documentos\\proyectos\\tp2\\coloquio\\AdminEmpleadosFront\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F508157-C07B-4584-BB65-D34435555D6F}|AdminEmpleadosFront.csproj|c:\\users\\enzob\\onedrive\\documentos\\proyectos\\tp2\\coloquio\\adminempleadosfront\\frmeditempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F508157-C07B-4584-BB65-D34435555D6F}|AdminEmpleadosFront.csproj|solutionrelative:frmeditempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEditEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\enzob\\OneDrive\\Documentos\\proyectos\\tp2\\coloquio\\AdminEmpleadosFront\\FrmEditEmpleados.cs",
+              "RelativeDocumentMoniker": "FrmEditEmpleados.cs",
+              "ToolTip": "C:\\Users\\enzob\\OneDrive\\Documentos\\proyectos\\tp2\\coloquio\\AdminEmpleadosFront\\FrmEditEmpleados.cs",
+              "RelativeToolTip": "FrmEditEmpleados.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAQwMsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:40:35.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

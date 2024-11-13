@@ -1,0 +1,22 @@
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEntidades\bin\Debug\net8.0\AdminEmpleadosEntidades.deps.json
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEntidades\bin\Debug\net8.0\AdminEmpleadosEntidades.dll
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEntidades\bin\Debug\net8.0\AdminEmpleadosEntidades.pdb
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEntidades\obj\Debug\net8.0\AdminEmpleadosEntidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEntidades\obj\Debug\net8.0\AdminEmpleadosEntidades.AssemblyInfoInputs.cache
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEntidades\obj\Debug\net8.0\AdminEmpleadosEntidades.AssemblyInfo.cs
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEntidades\obj\Debug\net8.0\AdminEmpleadosEntidades.csproj.CoreCompileInputs.cache
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEntidades\obj\Debug\net8.0\AdminEmpleadosEntidades.dll
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEntidades\obj\Debug\net8.0\refint\AdminEmpleadosEntidades.dll
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEntidades\obj\Debug\net8.0\AdminEmpleadosEntidades.pdb
+E:\Analista en sistemas\Cuarto Semestre\TP2\Examen\AdminEmpleadosEntidades\obj\Debug\net8.0\ref\AdminEmpleadosEntidades.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEntidades\bin\Debug\net8.0\AdminEmpleadosEntidades.deps.json
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEntidades\bin\Debug\net8.0\AdminEmpleadosEntidades.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEntidades\bin\Debug\net8.0\AdminEmpleadosEntidades.pdb
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEntidades\obj\Debug\net8.0\AdminEmpleadosEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEntidades\obj\Debug\net8.0\AdminEmpleadosEntidades.AssemblyInfoInputs.cache
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEntidades\obj\Debug\net8.0\AdminEmpleadosEntidades.AssemblyInfo.cs
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEntidades\obj\Debug\net8.0\AdminEmpleadosEntidades.csproj.CoreCompileInputs.cache
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEntidades\obj\Debug\net8.0\AdminEmpleadosEntidades.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEntidades\obj\Debug\net8.0\refint\AdminEmpleadosEntidades.dll
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEntidades\obj\Debug\net8.0\AdminEmpleadosEntidades.pdb
+C:\Users\enzob\OneDrive\Documentos\proyectos\tp2\coloquio\AdminEmpleadosEntidades\obj\Debug\net8.0\ref\AdminEmpleadosEntidades.dll
